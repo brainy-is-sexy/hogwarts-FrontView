@@ -1,0 +1,72 @@
+[
+  {
+    "name": "course",
+    "path": "/course",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\course\\\\index.vue",
+    "chunkName": "pages/course/index",
+    "_name": "_df437270"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_71085d5a"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_7ab88542"
+  },
+  {
+    "name": "teacher",
+    "path": "/teacher",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\teacher\\\\index.vue",
+    "chunkName": "pages/teacher/index",
+    "_name": "_3762f3e2"
+  },
+  {
+    "name": "course-id",
+    "path": "/course/:id",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\course\\\\_id.vue",
+    "chunkName": "pages/course/_id",
+    "_name": "_ca4149a0"
+  },
+  {
+    "name": "orders-oid",
+    "path": "/orders/:oid?",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\orders\\\\_oid.vue",
+    "chunkName": "pages/orders/_oid",
+    "_name": "_aaae0f62"
+  },
+  {
+    "name": "pay-pid",
+    "path": "/pay/:pid?",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\pay\\\\_pid.vue",
+    "chunkName": "pages/pay/_pid",
+    "_name": "_52a7dae5"
+  },
+  {
+    "name": "player-vid",
+    "path": "/player/:vid?",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\player\\\\_vid.vue",
+    "chunkName": "pages/player/_vid",
+    "_name": "_31c9f7dc"
+  },
+  {
+    "name": "teacher-id",
+    "path": "/teacher/:id",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\teacher\\\\_id.vue",
+    "chunkName": "pages/teacher/_id",
+    "_name": "_0694c037"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\HogwartsWebsite\\\\hogwarts\\\\vue-front-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b13e8b7a"
+  }
+]
